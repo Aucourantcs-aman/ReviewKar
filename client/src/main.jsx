@@ -13,7 +13,6 @@ if (!PUBLISHABLE_KEY) {
 }
 
 // Initialize Clerk
-
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <Provider>
